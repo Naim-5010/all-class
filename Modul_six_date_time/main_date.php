@@ -46,3 +46,13 @@ echo "\n";
 //use to strtotime 
 echo "\n";
  //function to calculate 
+
+
+ /// Modul 6 date and time function all deteils
+
+ // NO 1///// 
+
+
+date_default_timezone_set("Asia/Dhaka");
+$date_time = date('H:i:s');
+echo $date_time;
